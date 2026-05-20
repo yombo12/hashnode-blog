@@ -1,3 +1,11 @@
+---
+title: "APEX 26.1 : Au-delà d'Apexlang, vos Actions Dynamiques changent aussi !"
+slug: apex-26-1-dynamic-actions-changes
+tags: oracle-apex, database, web-development, devops
+domain: davidyombo.hashnode.dev
+saveAsDraft: false
+---
+
 # APEX 26.1 : Au-delà d'Apexlang, vos Actions Dynamiques changent aussi !
 
 Depuis la sortie d'APEX 26.1, la communauté n'a un mot à la bouche : Apexlang. Si cette nouveauté liée à l'IA attire les projecteurs, d'autres changements plus discrets — mais importants pour votre quotidien de développeur — se sont glissés dans la version. Les Actions Dynamiques (DA) ont notamment reçu un sérieux lifting.

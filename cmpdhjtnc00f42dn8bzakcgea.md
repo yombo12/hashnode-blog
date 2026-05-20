@@ -15,7 +15,7 @@ Chaque trimestre, Oracle publie ses **Correctifs de Sécurité Critiques (CPU - 
 
 En planifiant dès maintenant l'application des derniers correctifs sur vos infrastructures Oracle, vous contribuez directement à :
 
-*   **Renforcer la résilience** de vos architectures de données.
+*   **Renforcer la résilience** de vos architectures de données 544.
     
 *   **Protéger vos données sensibles** contre les cybermenaces et les vulnérabilités les plus récentes.
     
